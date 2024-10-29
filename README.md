@@ -12,7 +12,7 @@
         <h2>About Me</h2>
         <p>👀 I’m interested in programming and coding.</p>
         <p>🌱 I’m currently learning front-end development.</p>
-        <p>📫 How to reach me: <a href="https://www.linkedin.com/in/vatsalmittal/" target="_blank">LinkedIn</a></p>
+        <p>📫 How to reach me: <a href="https://www.linkedin.com/in/kalyan-reddy/" target="_blank">LinkedIn</a></p>
     </main>
 </body>
 </html>
@@ -21,8 +21,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyanreddyd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanreddyd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
