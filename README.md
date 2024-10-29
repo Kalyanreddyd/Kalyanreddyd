@@ -11,7 +11,7 @@
     <main>
         <h2>About Me</h2>
         <p>👀 I’m interested in programming and coding.</p>
-        <p>🌱 I’m currently learning front-end development.</p>
+        <p>🌱 I’m currently learning full-stack development.</p>
         <p>📫 How to reach me: <a href="https://www.linkedin.com/in/kalyanreddyd/" target="_blank">LinkedIn</a></p>
     </main>
 </body>
